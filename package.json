@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-autobind-eslint-rule",
+  "name": "eslint-plugin-autobind-eslint",
   "version": "0.0.0",
   "description": "eslint for allowing only autobind decorator",
   "keywords": [
