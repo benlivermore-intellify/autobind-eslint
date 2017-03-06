@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-autobind-eslint-rule",
+  "version": "0.0.0",
+  "description": "eslint for allowing only autobind decorator",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "blivermore",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "~3.9.1",
+    "babel-eslint": "^6.1.2",
+    "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
